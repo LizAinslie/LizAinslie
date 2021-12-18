@@ -54,7 +54,7 @@ I'm familiar with quite a lot of languages and tools, so let me list them here.
 ### My projects
 Here's what I'm currently working on:
 
-- [Synapse Technologies](https://synapsetech.dev/) - I am the CEO of Synapse Technologies, LLC. Right now we are working to push our flagship product, Reflex to production.
+- [Synapse Technologies](https://synapsetech.dev/) - I am the CEO of Synapse Technologies, LLC & Synapse Media Ltd. Right now we are working to push our flagship product, Reflex to production.
 
 Here are some projects I am the most proud of:
 
