@@ -55,6 +55,7 @@ I'm familiar with quite a lot of languages and tools, so let me list them here.
 Here's what I'm currently working on:
 
 - [Synapse Technologies](https://synapsetech.dev/) - I am the CEO of Synapse Technologies, LLC & Synapse Media Ltd. Right now we are working to push our flagship product, Reflex to production.
+- [Firefight](https://firefig.ht/) - A competitive shooter in Minecraft that I am developing for!
 
 Here are some projects I am the most proud of:
 
