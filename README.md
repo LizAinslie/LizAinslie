@@ -3,7 +3,7 @@ I'm Lizzy, I write code and sometimes (most of the time 😅) it works. My prono
 
 A fun fact about me is that I got to meet the Missouri governor at a cybersecurity competition (ironic, yes) in 2019. Now he's out making Tweets that make me regret ever going there. I'm also 99% self-taught!
 
-~~Right now I'm not looking to collaborate on anything or do anything with anyone as I have my schedule pretty full with my company work and freelance contract work. Sorry if you wanted to work with me and are disappointed; I'm still accepting ideas/offers though and would be glad to add yours to a backlog of sorts!~~ The previous sentences are only half true; work has let up a little bit, so if you have any ideas you'd like to see me make, please reach out because I'd love to hear them. Maybe I can make one!
+~~Right now I'm not looking to collaborate on anything or do anything with anyone as I have my schedule pretty full with my company work and freelance contract work. Sorry if you wanted to work with me and are disappointed; I'm still accepting ideas/offers though and would be glad to add yours to a backlog of sorts!~~ The previous sentences are only half true; work has let up a little bit, so if you have any ideas you'd like to see me make, please reach out because I'd love to hear them. Maybe I/we can make one!
 
 I listen to a lot of music (I mean a LOT). I have music on almost 100% of my waking day. Feel free to ask me what kinds of music I'm interested in! Meanwhile here's my playlist on Spotify: https://open.spotify.com/playlist/45x8Pw3oLXM6HplaG2u06p
 
@@ -83,8 +83,8 @@ I'm familiar with quite a lot of languages and tools, so let me list them here.
 - Nothing really, just grinding thru my work.
 
 **Stuff I'd like to learn:**
-- Rust. As many times as i have tried it, and even with all my experience in C and C++, I just can't seem to grasp Rust.
-- Elixir. I know it's not all that useful but it's a language I treasure
+- Rust. As many times as I have tried it, and even with all my experience in C and C++, I just can't seem to grasp Rust.
+- Elixir. I know it's not all that useful to what I do but it's a language I treasure
 - Game development in general. I'd like to broaden my horizons and enable myself to express my own creativity in new ways, and game dev is one of these ways.
 - VST programming, I'm an audio junkie.
 - EFI programming, because I really enjoy low level systems dev. I already have plans to work on this at some point in the near future
