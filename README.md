@@ -93,7 +93,8 @@ I'm familiar with quite a lot of languages and tools, so let me list them here.
 Here's what I'm currently working on:
 
 - [Synapse Technologies](https://synapsetech.dev/) - I am the CEO of Synapse Technologies, LLC & Synapse Media Ltd. Right now we are working to push our flagship product, Reflex to production.
-- [Firefight](https://firefig.ht/) - A competitive shooter in Minecraft that I am developing for!
+- [TimezoneDB](https://github.com/SynapseTech/TimezoneDB) - An easy, cross-platform method of keeping track of other people's timezones. Expected Release: 06/21/2022
+- [Firefight](https://firefig.ht/) - A competitive shooter in Minecraft that I am developing!
 - [Kineticraft](https://kineticraft.net) - A semi-vanilla SMP server that I am volunteering to help maintain custom code for.
 - Private client work. Always got something in that front lol.
 
@@ -101,7 +102,7 @@ Here are some projects I am the most proud of:
 
 - [MyRPC](https://github.com/MyRPC/MyRPC) - MyRPC is a custom Discord RPC application I built in early 2019. It was pretty popular before it up and died.
 - [AlpineOS](https://github.com/AlpineOS/AlpineOS) - An OS I've been building with a few friends. We're struggling to find a good name for it, and I might just name it AsbestOS for the meme.
-- [HUI-Builder](https://github.com/Studio-Archetype/HUU-Builder) - A menu editor for a paid Spigot resource that I implemented the bulk of in just a few days. I'm most proud of the canvas editing and image manipulation, it turned out much better than I expected.
+- [HUI-Builder](https://github.com/Studio-Archetype/HUI-Builder) - A menu editor for a paid Spigot resource that I implemented the bulk of in just a few days. I'm most proud of the canvas editing and image manipulation, it turned out much better than I expected.
 
 ### Stats go brr
 |     |     |     |
