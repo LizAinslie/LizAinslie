@@ -13,21 +13,25 @@ If you need help, have an idea or just want to chat you can reach me on Discord 
 ### My skills
 I'm familiar with quite a lot of languages and tools, so let me list them here.
 
-**Languages:**
+<details>
+  <summary>Languages</summary>
+  
+  - Java
+  - Kotlin (I utilize Kotlin on the JVM and through Kotlin/Native)
+  - Golang
+  - C/C++
+  - Assembly
+  - Ruby / Crystal
+  - Python
+  - JavaScript & TypeScript (I use JavaScript both client-side and server-side)
+  - HTML/CSS and relevant preprocessors
+  - Dart
+  - Lua
+</details>
 
-- Java
-- Kotlin (I utilize Kotlin on the JVM and through Kotlin/Native)
-- Golang
-- C/C++
-- Assembly
-- Ruby / Crystal
-- Python
-- JavaScript & TypeScript (I use JavaScript both client-side and server-side)
-- HTML/CSS and relevant preprocessors
-- Dart
-- Lua
-
-**Tools/Frameworks:**
+<details>
+  <summary>Tools/Frameworks</summary>
+  
 - JS
   - Frameworks
     - [Next.js](https://nextjs.org/)
@@ -77,17 +81,23 @@ I'm familiar with quite a lot of languages and tools, so let me list them here.
   - [Fomantic UI](https://fomantic-ui.com/)
   - [TailwindCSS](https://tailwindcss.com/)
   - [Bootstrap](https://getbootstrap.com)
+</details>
 
-**Stuff I'm currently learning:**
-
-- Nothing really, just grinding thru my work.
-
-**Stuff I'd like to learn:**
-- Rust. As many times as I have tried it, and even with all my experience in C and C++, I just can't seem to grasp Rust.
-- Elixir. I know it's not all that useful to what I do but it's a language I treasure
-- Game development in general. I'd like to broaden my horizons and enable myself to express my own creativity in new ways, and game dev is one of these ways.
-- VST programming, I'm an audio junkie.
-- EFI programming, because I really enjoy low level systems dev. I already have plans to work on this at some point in the near future
+<!-- 
+<details>
+  <summary>Stuff I'm currently learning</summary>
+  - Nothing really, just grinding thru my work.
+</details> -->
+  
+<details>
+  <summary>Stuff I'd like to learn</summary>
+  
+  - Rust. As many times as I have tried it, and even with all my experience in C and C++, I just can't seem to grasp Rust.
+  - Elixir. I know it's not all that useful to what I do but it's a language I treasure
+  - Game development in general. I'd like to broaden my horizons and enable myself to express my own creativity in new ways, and game dev is one of these ways.
+  - VST programming, I'm an audio junkie.
+  - EFI programming, because I really enjoy low level systems dev. I already have plans to work on this at some point in the near future
+</details>
 
 ### My projects
 Here's what I'm currently working on:
@@ -105,9 +115,16 @@ Here are some projects I am the most proud of:
 - [HUI-Builder](https://github.com/Studio-Archetype/HUI-Builder) - A menu editor for a paid Spigot resource that I implemented the bulk of in just a few days. I'm most proud of the canvas editing and image manipulation, it turned out much better than I expected.
 
 ### Stats go brr
-|     |     |     |
-| --- | --- | --- |
-| ![Lizzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LizAinslie) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LizAinslie) | ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lizainslie16&layout=compact) |
+
+<details>
+  <summary>View my code stats (hidden because they take up a lot of space)</summary>
+  
+  ![Lizzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LizAinslie) 
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LizAinslie) 
+  
+  ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lizainslie16&layout=compact)
+</details>
 
 <!--
 Here are some ideas to get you started:
