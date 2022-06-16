@@ -8,7 +8,7 @@ A fun fact about me is that I got to meet the Missouri governor at a cybersecuri
 I listen to a lot of music (I mean a LOT). I have music on almost 100% of my waking day. Feel free to ask me what kinds of music I'm interested in! Meanwhile here's my playlist on Spotify: https://open.spotify.com/playlist/45x8Pw3oLXM6HplaG2u06p
 
 ### How to reach me
-If you need help, have an idea or just want to chat you can reach me on Discord with my tag (`@RailRunner16#0109`) or by joining the Crack Café (https://discord.gg/hKd9eQTQmZ). For business inquiries, email me at [lizainslie16@gmail.com](mailto:lizainslie16@gmail.com) or my work email, [liz_ainslie@synapsetech.dev](mailto:liz_ainslie@synapsetech.dev). You can also find me on Twitter [@LizzyReborn](https://twitter.com/LizzyReborn)
+If you need help, have an idea or just want to chat you can reach me on Discord with my tag (`Lizzy A#0016`) or by joining the Crack Café (https://discord.gg/hKd9eQTQmZ). For business inquiries, email me at [lizainslie16@gmail.com](mailto:lizainslie16@gmail.com) or my work email, [liz_ainslie@synapsetech.dev](mailto:liz_ainslie@synapsetech.dev). You can also find me on Twitter [@LizzyReborn](https://twitter.com/LizzyReborn)
 
 ### My skills
 I'm familiar with quite a lot of languages and tools, so let me list them here.
