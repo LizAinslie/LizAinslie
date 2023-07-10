@@ -27,60 +27,56 @@ I'm familiar with quite a lot of languages and tools, so let me list them here.
   - HTML/CSS and relevant preprocessors
   - Dart
   - Lua
+  - Rust
 </details>
 
 <details>
   <summary>Tools/Frameworks</summary>
   
-- JS
-  - Frameworks
-    - [Next.js](https://nextjs.org/)
-    - [React](https://reactjs.org/)
-    - [Vue](https://vuejs.org/)
-  - Runtimes
-    - [Electron](https://www.electronjs.org/)
-    - [NodeJS](https://nodejs.org/)
-  - Build Tools
-    - [Webpack](https://webpack.js.org/)
-    - [Rollup](https://rollupjs.org/)
-    - [Vite](https://vitejs.dev/)
-  - Other Libs
-    - [THREE.js](https://threejs.org/)
-- Bots
-  - [Discord.js](https://discord.js.org)
-  - [JDA](https://github.com/DV8FromTheWorld/JDA)
-- Server/Web Frameworks
-  - [Ktor](https://ktor.io/)
-  - [Django](https://www.djangoproject.com/)
-  - [Rails](https://rubyonrails.org/)
-  - [Express](https://expressjs.com/)
+- JS/TS
+  - **Frontend Frameworks:** [Next.js](https://nextjs.org/), [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Astro](https://astro.build)
+  - **Runtimes:** [Electron](https://www.electronjs.org/), [NodeJS](https://nodejs.org/)
+  - **Build Tools:** [Webpack](https://webpack.js.org/), [Rollup](https://rollupjs.org/), [Vite](https://vitejs.dev/), Babel
+  - **Database Connectors:** [rethinkdbdash](https://github.com/neumino/rethinkdbdash), Mongoose, [Prisma](https://www.prisma.io/)
+  - **Web Frameworks:** [Express](https://expressjs.com/), Fastify
+  - **Bot Frameworks:** [Discord.js](https://discord.js.org), Eris
+  - **Mobile Development:** [Cordova](https://cordova.apache.org/), [Ionic](https://ionicframework.com/)
+  - **Game Development:** [THREE.js](https://threejs.org/), Phaser
+  - **Web Payment Processing:** Braintree, Paypal, Stripe. Node Crypto.
+  - **Security:** Node OAuth, BCrypt, JWT
+  - **Other Libs:** Moment, tRPC
 - Databases
   - [MongoDB](https://www.mongodb.com/)
-    - [Mongoose](https://mongoosejs.com/)
-    - [KMongo](https://litote.org/kmongo/)
   - [RethinkDB](https://rethinkdb.com/)
-    - [rethinkdbdash](https://github.com/neumino/rethinkdbdash)
+  - **SQL:** MySQL, PostgreSQL, MariaDB
+- Ruby
+  - **Web Frameworks:** [Rails](https://rubyonrails.org/), Sinatra
+- Python
+  - **Web Frameworks:** [Django](https://www.djangoproject.com/), Flask,
+  - **Game Development:** PyGame
+  - **Other Libs:** Bleach, Tkinter, PIL, Numpy
 - Java/JVM
-  - Build Systems
-    - Gradle
-    - Maven
+  - **Build Systems:** Gradle, Maven
+  - **Web Frameworks:** [Ktor](https://ktor.io/)
+  - **Bot Frameworks:** [JDA](https://github.com/DV8FromTheWorld/JDA), Kord
   - Minecraft
-    - [FabricMC](https://fabricmc.net/)
-    - Spigot/Paper/Bukkit
-  - Other Libs
-    - Lombok
-    - GSON
-    - [LibGDX](https://libgdx.com/)
-- Mobile Development
-  - [Flutter](https://flutter.dev)
-  - Android
-  - [Cordova](https://cordova.apache.org/) (but please don't hire me for Cordova, ew.)
-  - [Jetpack Compose](https://developer.android.com/jetpack/compose)
-  - [Ionic](https://ionicframework.com/)
+    - **Mod Toolkits:** [FabricMC](https://fabricmc.net/)
+    - **Servers:** Spigot/Paper/Bukkit
+  - **Utilities:** Lombok, GSON
+  - **Database connectors:** JDBC, [KMongo](https://litote.org/kmongo/)
+  - **Game Development:** [LibGDX](https://libgdx.com/), KorGE/Korlibs, LWJGL
+  - **Mobile Development:** Android, [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- Dart
+  - **Mobile Development:** [Flutter](https://flutter.dev)
+  - **Other Libs:** HiveDB
 - CSS Frameworks
   - [Fomantic UI](https://fomantic-ui.com/)
   - [TailwindCSS](https://tailwindcss.com/)
   - [Bootstrap](https://getbootstrap.com)
+- Dev tools
+  - **IDEs:** IDEA, Neovim, VS, VSCode, Eclipse
+  - **CI:** Travis CI, Github Actions, CircleCI
+  - **Other Tools:** Google Colab, Trello
 </details>
 
 <!-- 
@@ -91,8 +87,7 @@ I'm familiar with quite a lot of languages and tools, so let me list them here.
   
 <details>
   <summary>Stuff I'd like to learn</summary>
-  
-  - Rust. As many times as I have tried it, and even with all my experience in C and C++, I just can't seem to grasp Rust.
+
   - Elixir. I know it's not all that useful to what I do but it's a language I treasure
   - Game development in general. I'd like to broaden my horizons and enable myself to express my own creativity in new ways, and game dev is one of these ways.
   - VST programming, I'm an audio junkie.
@@ -102,9 +97,7 @@ I'm familiar with quite a lot of languages and tools, so let me list them here.
 ### My projects
 Here's what I'm currently working on:
 
-- [Synapse Technologies](https://synapsetech.dev/) - I am the CEO of Synapse Technologies, LLC & Synapse Media Ltd. Right now we are working to push our flagship product, Reflex to production.
-- [TimezoneDB](https://github.com/SynapseTech/TimezoneDB) - An easy, cross-platform method of keeping track of other people's timezones. Expected Release: 06/21/2022
-- [Firefight](https://firefig.ht/) - A competitive shooter in Minecraft that I am developing!
+- [Synapse Technologies](https://synapsetech.dev/) - I am the CEO of Synapse Technologies, LLC & Synapse Media Ltd. Right now we are working to push our flagship product, Iridium to production.
 - [Kineticraft](https://kineticraft.net) - A semi-vanilla SMP server that I am volunteering to help maintain custom code for.
 - Private client work. Always got something in that front lol.
 
