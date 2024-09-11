@@ -8,7 +8,7 @@ Want to find friends to collab with on code, hit me up if you're interested in w
 I listen to a lot of music (I mean a LOT). I have music on almost 100% of my waking day. Feel free to ask me what kinds of music I'm interested in! Meanwhile here's my playlist on Spotify: https://open.spotify.com/playlist/45x8Pw3oLXM6HplaG2u06p
 
 ### How to reach me
-If you need help, have an idea or just want to chat you can reach me on Discord `@lizzythewitch` or by joining the [Crack Café](https://discord.gg/hKd9eQTQmZ). For business inquiries, email me at [lizainslie16@gmail.com](mailto:lizainslie16@gmail.com) or my work email, [liz_ainslie@synapsetech.dev](mailto:liz_ainslie@synapsetech.dev). You can also find me on Twitter [@LizzyReborn](https://twitter.com/LizAinslie)
+If you need help, have an idea or just want to chat you can reach me on Discord `@lizzythewitch` or by joining the [Crack Café](https://discord.gg/hKd9eQTQmZ). For business inquiries, email me at (lizzy at lizainslie dot dev). You can also find me [on Twitter/X](https://twitter.com/0xLizzyTheWitch)
 
 ### My skillset
 I'm familiar with quite a few languages, so let me list them here.
@@ -54,8 +54,8 @@ Here's what I'm currently working on:
 Here are some projects I am the most proud of:
 - [HUI-Builder](https://github.com/Studio-Archetype/HUI-Builder) - A menu editor for a paid Spigot resource that I implemented the bulk of in just a few days. I'm most proud of the canvas editing and image manipulation, it turned out much better than I expected.
 
-![Lizzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LizAinslie) 
+<!-- ![Lizzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=LizAinslie) 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LizAinslie) 
   
-<!-- ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lizainslie16&layout=compact) -->
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lizainslie16&layout=compact) -->
