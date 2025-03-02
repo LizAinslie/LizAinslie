@@ -3,7 +3,7 @@ I'm Lizzy, an independent full stack engineer who is passionate about decentrali
 
 My playlist: https://open.spotify.com/playlist/45x8Pw3oLXM6HplaG2u06p
 
-You can reach me on Discord `@lizzythewitch` or by joining the [Crack Café](https://discord.gg/hKd9eQTQmZ). For business inquiries, email me at (lizzy at lizainslie dot dev).
+You can reach me on Discord `@lizzythewitch`. For business inquiries, email me at (lizzy at lizainslie dot dev).
 
 I have a particular set of skills:
 
